@@ -57,8 +57,11 @@ Also created a detailed documentation of this.
 
 #### Tools Used:
 Jupyter notebook : For exploratory data analysis using python
+
 Library : pandas
+
 PowerBI : for visualization
+
 Excel : Initial exploration of the dataset
 
 
