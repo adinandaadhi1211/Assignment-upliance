@@ -27,6 +27,8 @@ The project outcomes include actionable insights, Dashboard using PowerBI, and B
 - Explored how age and locationimpact session ratings and order trends.
 
 ## PowerBI Dashboard
+![Screenshot (203)](https://github.com/user-attachments/assets/b2a1751f-ce4b-481e-b828-66d4ee80d1d9)
+
 ### KPI’S: 
 #### Order Completion Rate:
 High completion rate of 87.5% indicates that most users who start cooking sessions complete their orders.
