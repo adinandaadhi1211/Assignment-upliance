@@ -50,7 +50,14 @@ Only 18.75% are one-time users, suggesting room to convert these users into repe
 Dinner sessions dominate, followed by lunch and breakfast, reinforcing that dinner is the most popular cooking time.
 Breakfast has the least engagement, possibly due to time constraints in the morning.
 These insights can guide strategies to improve user engagement, retention, and overall platform performance.
+
 Also created a detailed documentation of this.
+
+#### Tools Used:
+Jupyter notebook : For exploratory data analysis using python
+Library : pandas
+PowerBI : for visualization
+Excel : Initial exploration of the dataset
 
 
 
